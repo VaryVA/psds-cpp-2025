@@ -1,1 +1,1 @@
-add_gtest_asan(test_simple_vector test.cpp)
+add_gtest_asan(test_simple_list test.cpp)
